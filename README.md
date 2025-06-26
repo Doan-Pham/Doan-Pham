@@ -1,6 +1,8 @@
 ### 👋 Hi, I'm Doan Pham
 
-I'm a **Fresher Android Developer** with around 1.5 years of experience
+I'm a **Software Engineer** with 2 years of experience in Android app development. I often read about software engineering before bed to have better sleep, and I usually stay behind to fix my misplaced if-statements.
+
+**Also, I'm a proud fan of Light Theme.**
 
 ---
 
